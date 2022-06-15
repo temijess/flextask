@@ -32,9 +32,12 @@ p{
 
 }
 header{
-  background-color: aqua;
-  padding: 30px;
   text-align: center;
+}
+.head{
+  margin: 20px;
+  width: 150px;
+  background-color: skyblue;
 }
 main {
   margin: auto;
